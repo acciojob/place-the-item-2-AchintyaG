@@ -1,23 +1,23 @@
-.content{
+.holder{
 	display: flex;
 	flex-flow:row wrap;
 	justify-content: center;  
 	font-size: 30px;
 	
 }
+.items{
+	height:150px;
+	width:150px;  
+}
 .Three
 {
    background:green;
-   height:100px;
-   width:100px;  	
+   
 }
 .Two{
 	background:red;
-	height:100px;
-	width:100px;  
+	
 }
 .One{
 	background:blue;
-	height:100px;
-	width:100px;  
-}
+	
